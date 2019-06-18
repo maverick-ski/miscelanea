@@ -1,0 +1,30 @@
+Msi Z370i Gaming Pro
+Msi H310i Pro
+Asrock Fatal1ty Z370 Gaming
+Asrock Z270m-itx/ac
+Gigabyte Z370n Wifi Itx
+Gigabyte Ga-z270n-gaming 5 Itx
+Gigabyte B360n Aorus Gaming Wifi
+GigaByte GA-H77N-WIFI
+Asus Rog Strix B360-i Gaming
+
+
+562 Nogaro Buenos aires
+Uthgra de las luces
+Grand Brizo
+5411 Soho
+
+
+Bases
+Tema / bankproswap / bankproderivativos / bankprorendavariavel
+
+Database Role Membership
+db_datareader
+db_datawriter
+db_ddladmin
+db_owner
+
+Usuarios sistêmicos
+TemaUser
+TemaConsulta
+TemaIntegracao
