@@ -1,0 +1,1082 @@
+30/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005573756
+
+
+
+29/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005572532
+--- INC900005562237
+
+- Troubleshooting para correção do erro de inconsistência de SIDs para o login/user srv_bzm_prd no ambiente do Charles River
+
+28/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005552872
+--- INC900005562021
+--- INC900005542380
+--- INC900005520653
+--- INC900005518694
+
+- Concessão de permissão dbowner a ymfdesenv em S259RJ\YMF_DSV a pedido de Marcelo Massena
+- Reunião com Roberto/Wesley sobre atualização do eguardian
+
+27/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+
+
+- Troubleshoot com Thiago Felix para resolver problema de conexão da Marits ao SACCDA
+
+
+26/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005531433
+--- INC900005520653
+--- INC900005511061
+--- INC900005538074
+--- INC900005433151
+
+- Restore da base SACCDA
+- Aberto chamado na oracle pra tratar de problema de restore do MTRMNT
+
+21/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005257739
+--- INC900005504606
+
+
+- Realizada movimentação de datafiles no servidor S259RJ para liberar espaço nos drives F: e I:
+
+19/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005470713
+--- INC900005470712
+--- INC900005460274
+--- INC900005459654
+--- INC900005479725
+--- INC900005457421
+
+- Remoção da base Restored-Allocation de S245RJ\INT1PRD
+
+15/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005441691
+--- INC900005433450
+--- INC900005430346
+
+14/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005433453
+
+13/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005430346
+--- INC900005423356
+--- INC900005431313
+
+-- Geração de relatório de espaço em disco nos servidores de banco para capacity planner
+
+12/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005402125
+--- INC900005416443
+--- INC900005416443
+--- INC900005388609
+
+-- Pesquisa e criação de script para gerar relatório de espaço em disco
+
+08/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005384362
+--- INC900005388609
+
+- Troubleshooting Oracle RAC node eviction falha de rede
+
+07/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005361623
+--- INC900005373130
+--- INC900005303173
+
+-- Tratamento para falta de espaço no disco D em S55NRJ
+
+
+06/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005316366
+--- INC900005366372
+--- INC900005328387
+--- INC900005367122
+
+- Instalação do SQLServer 2016 + CU8 e SSMS para ambiente do novo Docuware de produção
+
+05/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005350572
+--- INC900005084558
+--- INC900005359424
+--- INC900005316366
+
+- Investigando erros no job de restore quinzenal DMZ_MNT
+- Verificado problema de acesso, login srv_bdMesaArx, a base MesaArx. Report dado para o Renan Costa
+- Desabilitado job TROVAO – job SSIS_ServicoBackupMatera 
+- Reunião com o Grupo de banco de dados
+
+01/08/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005306276
+--- INC900005305538
+--- INC900005313175
+--- INC900005292088
+--- INC900005306439
+--- INC900005280878
+--- INC900005289728
+--- INC900005306347
+
+
+31/07/2019
+- Check list do ambiente
+- Atendimento aos chamados
+
+-- Troubeshooting de travamentos na conexão da instância Oracle12c AMPLIS. Constatado problema de interação com o GI 11gR2
+-- Reunião DBA Corp x Mellon
+
+30/07/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005289728
+--- INC900005280878
+
+-- Troubeshooting de travamentos na conexão da instância Oracle12c AMPLIS.
+
+29/07/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005160312
+--- INC900005185181
+--- INC900005279603
+--- INC900005248087
+--- INC900005255065
+
+-- Troubeshooting de travamentos na conexão da instância Oracle12c AMPLIS
+-- Troubeshooting de travamentos ao dropar usuário AMPLIS_APP
+
+26/07/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005255370
+
+-- Troubeshooting de travamentos na conexão da instância Oracle12c AMPLIS
+
+25/07/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005242281
+--- INC900005247020
+--- INC900005235178
+
+24/07/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005222688
+--- INC900005233770
+--- INC900005190586
+
+-- Iniciado processo de criação da uma base de dados 12c em bd-materadsv para o projeto do AMPLIS (BigApple)
+
+
+23/07/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005225948
+--- INC900005225955
+--- INC900005225547
+
+22/07/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005203290
+--- INC900005181731
+--- INC900005185181
+--- INC900005182409
+
+05/07/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005056638
+--- INC900005055844
+--- INC900005055442
+--- INC900005032702
+--- INC900005034705
+--- INC900005032727
+--- INC900005031615
+
+- troubleshooting standby database para teste de DR
+
+04/07/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005045797
+--- INC900005043014
+--- INC900004816361
+--- INC900004967839
+--- INC900005046951
+
+- Restore de SAC e COT em S259RJ\YMF_DSV conforme solicitado por Thiago Felix
+- Interação com Hari Baddiga para coleta informações de auditoria do pupm
+
+03/07/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005043696
+
+- execução manual do restore de cot2extrato
+- troubleshooting do job restore_sac em S259RJ\YMF_DSV
+
+
+02/07/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005023015
+--- INC900005021484
+--- INC900005032983
+--- INC900005032727
+
+- Analise, em conjunto com o Fernando Vieira, do problema na escrita do backup log transaction no servidor S143RJ
+
+01/07/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900005023015
+--- INC900005003755
+--- INC900005009352
+--- INC900005020241
+
+-- Call para debater problema de performance na execução de um script corretivo no Matera
+
+28/06/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004991093
+--- INC900005003755
+
+-- Interação com a Fabiola para confirmar as datas de restore das bases Tema, bankproswap, bankproderivativos, bankprorendavariavel
+-- Execução de script e criação de objetos em MTRH, a pedido do Wesley, para aplicação de fix corretivo
+
+27/06/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004978882
+--- INC900004982588
+--- INC900004989797
+
+26/06/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004979904
+
+- Criação de procedimento para ativação do oracle standby database 
+
+25/06/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004962363
+--- INC900004961998
+--- INC900004937888
+--- INC900004968853
+--- INC900004968522
+--- INC900004909454
+--- INC900004960130
+--- INC900004967463
+--- INC900004971333
+--- INC900004784658
+--- INC900004971841
+
+
+24/06/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004949717
+--- INC900004940062
+--- INC900004923699
+--- INC900004957874
+--- INC900004960645
+--- INC900004937888
+
+-- Reunião Workgroup Database
+
+19/06/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004921751
+--- INC900004913201
+--- INC900004912194
+
+- Troubleshooting para reestabelecer MTR standby database
+
+18/06/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004900742
+
+- Troubleshooting para reestabelecer MTR standby database
+
+17/06/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004898863
+--- INC900004871043
+--- INC900004880634
+--- INC900004880634
+--- INC900004863789
+--- INC900004838995
+- Troubleshooting para reestabelecer MTR standby database
+
+14/06/2019
+- Check list do ambiente
+- Atendimento aos chamados
+
+-- Finalização da planilha com os procedimentos para o teste de DR
+-- Revisão e alinhamento com Diniz da execução das atividades
+
+13/06/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004863789
+--- INC900004871043
+
+- Reunião da equipe de Ti sobre o Teste de DR
+- Alinhamento com o Diniz das atividades a serem feitas no teste
+- Estudo dos procedimentos para o teste de DR
+
+12/06/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004853821
+--- INC900004859410
+--- INC900004859207
+
+11/06/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004816361
+--- INC900004841924
+--- INC900004923699
+
+
+- Demanda Ethical Hacking
+--- Criação de script para coleta de informações sobre conexões
+--- Criação de job para coleta
+
+10/06/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004823577
+--- INC900004838995
+--- INC900004839356
+
+- Demanda Ethical Hacking
+---Pesquisa de solução para rastrear driver de conexão de aplicação
+
+07/06/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004816361
+--- INC900004823577
+
+-- Coleta e reenvio de informações de auditoria para Stefano (KPMG)
+
+06/06/2019
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004802414
+
+05/06/2019
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004786725
+--- INC900004784880
+
+
+04/06/2019
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004785471
+--- INC900004714285
+
+03/06/2019
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004758562
+--- INC900004771177
+--- INC900004571423
+--- INC900004628787
+
+***********************************************************************************
+LEGADO PRA BAIXO
+***********************************************************************************
+
+01/03/2019 -> 8:09 - 17:48
+
+- Check list do ambiente
+
+- Troubleshooting 
+-- Travamento de S255RJ\SMA
+-- Startup de instâncias down em S255RJ
+
+- Atendimento aos chamados
+--- INC900003930508
+
+- Troubleshooting de problema de acesso a bases do Trovão devido a handshake failed 
+
+- Workgroup de Banco de Dados
+--- Migração da instância Trovão
+
+06/03/2019 -> 8:07 - 17:00
+
+- Check list do ambiente
+
+- Atendimento aos chamados
+--- INC900003955457
+--- INC900003955642
+--- INC900003957162
+--- INC900003958078
+
+07/03/2019 -> 08:02 - 16:00
+
+- Check list do ambiente
+
+- Atendimento aos chamados
+--- INC900003942025
+--- INC900003993272
+--- INC900003995112
+
+-- Restore manual da base S259RJ\YMF_DSV cot2 devido a falha, por falta de espaço em disco, no processo automático 
+
+08/03/2019 -> 08:00 - 17:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900003997476
+--- INC900004007755
+--- INC900004007693
+
+- Projeto de Particionamento
+--- Concluido scripts iniciais do ambiente TROVAO
+
+11/03/2019 -> 08:00 - 17:15
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004030151
+--- INC900004032553
+
+- Criado o job tsql - Table ArquivoTradingDesk anual cleanup para o DB Ativos (Trovao)
+- Atualização (Restore) da base MTRMNT com dados de produção
+- Agendado reboot no servidor UAT S255RJ para correção de problema com ODAC (INC900003896878)
+
+12/03/2019 -> 08:15 - 17:00
+
+- Check list do ambientes
+- Atendimento aos chamados
+--- INC900004031675
+--- INC900004034228
+--- INC900004033783
+--- INC900004034041
+--- INC900004043390
+--- INC900004034275
+
+13/03/2019 -> 08:00/14:00 - 15:30/18:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004054350
+
+- Projeto de Particionamento
+--- Testes com scripts para shrinkfile e desfragmentação
+
+14/03/2019 -> 08:00/12:00 - 13:00/17:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900003854046
+
+- Projeto de Particionamento
+--- Resolução do problema de travamento do script de shrinkfile na base ativosLabPartition
+--- Criação da base CarteirasLabPartition
+--- Validação dos scripts da base CarteirasLabPartition
+--- Criação da base riscoLabPartition
+--- Validação dos scripts da base riscoLabPartition
+--- Criação da base seriesLabPartition
+--- Criação da base creditoLabPartition
+
+15/03/2019 -> 09:00 - 18:15
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004034041
+--- INC900004066116
+--- INC900004067877
+--- INC900004069364
+--- INC900004078335
+
+18/03/2019 -> 08:00-17:00	SALDO DE HORAS NO FIM DO DIA: 1:45
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004070526
+--- INC900004095818
+--- INC900004097067
+--- INC900004079752
+--- INC900003896878
+
+- Projeto de Particionamento
+--- Validação dos scripts da base seriesLabPartition
+--- Criação da base pricingLabPartition
+
+19/03/2019 -> 08:00/18:00		SALDO DE HORAS NO FIM DO DIA: 2:45
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004102508
+--- INC900004109345
+--- INC900004109443
+--- INC900004078335
+
+20/03/2019 -> 08:15/03:30		SALDO DE HORAS-> INICIO DO DIA: 2:45 / FIM DO DIA: 01:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900003896878
+--- INC900004079996
+--- INC900004112179
+
+- Análise de problema de performance na execução do modulo Cadastro Investidor Pessoa Juridica (SMA/SMC)
+
+21/03/2019 -> 08:15/18:15		SALDO DE HORAS-> INICIO DO DIA: 01:00 / FIM DO DIA: 01:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004124280
+--- INC900004123260
+--- INC900004122352
+
+22/03/2019 -> 08:05/17:00		SALDO DE HORAS-> INICIO DO DIA: 01:00 / FIM DO DIA: 01:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+
+- Projeto de Particionamento
+--- Criação da base pessoas4LabPartition
+
+25/03/2019 -> 08:00/17:00		SALDO DE HORAS-> INICIO DO DIA: 01:00 / FIM DO DIA: 01:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004144123
+--- INC900004166414
+
+- Projeto de Particionamento
+--- 
+
+- Atividades pontuais
+--- S259RJ aprensentou esgotamento de espaço no drive K: Realizei: atividades de shrink log em várias bases para liberar espaço em disco, backup da base pessoas4 para posterior backup de log e shrink de log.
+
+
+26/03/2019 -> 08:00/18:00		SALDO DE HORAS-> INICIO DO DIA: 01:00 / FIM DO DIA: 02:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+
+- Projeto de Particionamento
+--- Testes com scripts pessoas4_arquivoPedido.sql pessoas4_arquivoPedidoCotista.sql
+
+27/03/2019 -> 08:00/16:00		SALDO DE HORAS-> INICIO DO DIA: 02:00 / FIM DO DIA: 01:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004179047
+
+28/03/2019 -> 08:00/18:00		SALDO DE HORAS-> INICIO DO DIA: 01:00 / FIM DO DIA: 00:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004188470
+--- INC900004196120
+
+29/03/2019 -> 08:40/17:00		SALDO DE HORAS-> INICIO DO DIA: 01:00 / FIM DO DIA: 00:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+
+
+- Atividades pontuais
+-- Troubleshooting sobre lentidão no cluster SQLCLT01 impactando ambientes Cot e SAC
+
+
+01/04/2019 -> 08:00-12:30/13:30-16:00		SALDO DE HORAS-> INICIO DO DIA: 00:00 / FIM DO DIA: -01:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004224593
+--- INC900004224652
+--- INC900004224807
+--- INC900004227411
+
+- Projeto de Particionamento
+
+02/04/2019 -> 08:00-12:30/13:30-18:00		SALDO DE HORAS-> INICIO DO DIA: -01:00 / FIM DO DIA: 00:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004227411
+--- INC900004236772
+--- INC900004228827
+--- INC900004238193
+--- INC900004238843
+
+- Outras Atividades
+--- Restore, do backup de produção do cot2, em s255rj\ext1uat com o nome de cot2corte. Execução do fix users.
+
+03/04/2019 -> 08:15-12:15/13:10-17:10		SALDO DE HORAS-> INICIO DO DIA: 00:00 / FIM DO DIA: 00:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004250445
+--- 
+
+
+03/04/2019 -> 08:05/17:00		SALDO DE HORAS-> INICIO DO DIA: 00:00 / FIM DO DIA: 01:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004250682
+--- INC900004247329
+--- INC900004250595
+--- INC900004251749
+--- INC900004252751
+--- INC900004259187
+--- INC900004260040
+--- INC900004261303
+
+- Reunião de acompanhamento do projeto novo trovão
+
+04/04/2019 -> 08:10		SALDO DE HORAS-> INICIO DO DIA: 00:00 / FIM DO DIA: 01:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004270237
+--- INC900004267897
+--- INC900004259187
+--- INC900004260040 
+--- INC900004261303 
+
+-- Troubleshooting da instalação do RelDba
+
+08/04/2019 -> 08:10		SALDO DE HORAS-> INICIO DO DIA: 00:00 / FIM DO DIA: 01:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004279949
+--- INC900004271073
+--- INC900004292523
+
+-- Réplica (restore) de ReleaseManagement de Instância de produção - BD-TFS2013\TFS2013 para Instância de UAT -            s259rj\tfs2013
+
+
+09/04/2019 -> 08:10		SALDO DE HORAS-> INICIO DO DIA: 00:00 / FIM DO DIA: 00:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004297964
+--- INC900004290574
+--- INC900004301636
+
+10/05/2019 -> 08:10		SALDO DE HORAS-> INICIO DO DIA: 00:00 / FIM DO DIA: 00:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004228497
+--- INC900004305227
+--- INC900004308983
+
+
+-- Call para debate do problema de performance na aplicação jcot
+
+11/05/2019 -> 08:10		SALDO DE HORAS-> INICIO DO DIA: 00:00 / FIM DO DIA: 00:00
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004317247
+--- INC900004318654
+--- INC900004271073
+--- INC900004319148
+--- INC900004321294
+--- INC900004321903 
+
+- Reunião de acompanhamento do projeto novo trovão
+
+12/04/2019
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004328756
+
+- Oracle Class of Secure Transport (COST)
+--- Entendimento do problema e leitura dos documentos: Application Infrastructure Penetration Test Report / Oracle Security Alert for CVE-2012-1675
+
+- Call para debate do problema de performance na aplicação jcot
+
+15/04/2019
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004339141
+--- INC900004330853
+--- INC900004317247
+--- INC900004321903
+--- INC900004321294
+--- INC900004353678
+--- INC900004357010
+
+-- Iterações com Carlos xavier referentes a problemas de conexão do Matera com SMA
+
+16/04/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004332332
+--- INC900004364991
+
+- Oracle Class of Secure Transport (COST)
+--- Estudo do documento Using Class of Secure Transport (COST) to Restrict Instance Registration (Doc ID 1453883.1)
+
+- Troubleshooting, com apoio do DBA Anthony Baldavia (DBA Corp), para resolução de problemas de execução da ferramenta RelDBA
+- Reunião de acompanhamento do projeto novo trovão
+
+17/04/2019
+
+- Check list do ambiente
+- Atendimento aos chamados
+
+- Oracle Class of Secure Transport (COST)
+-- Implementado workarround no listener de S55NRJ. Nao observou-se no ambiente o comportamento esperado conforme descrito na documentação oracle
+-- Troubleshooting com André Gomes no GI do S55NRJ. Ambiente começou a apresentar travamentos no grid e não voltou operacional após o reboot do servidor. Após o trabalho de investigação foi possível reestabelecer os serviços manualmente. Será aberto um chamado na oracle para tratar o problema
+
+- Troubleshooting SPB
+-- Foram verificados os logs da camada de clusterware oracle e não foram encontrados quaisquer indícios referentes ao erro “The Network Adapter could not establish the connection” que foram reportados na camada de middleware do SPB. Após reunião com o Marcio Guimaraes, para debater o problema, foi encontrado um evento de erro na camada do Hyper-V no mesmo horario da falha do SPB
+
+- Restore da base cot2 em cot2corte
+
+18/04/2019
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004379276
+--- INC900004389312
+
+-- Reunião técnica de alinhamento entre BNY Mellon e DBACorp
+-- Iteração com Menegussi sobre erro em job devido a transaction log database full em cot2corte
+
+
+22/04/2019
+
+- Check list do ambiente
+- Atendimento aos chamados
+
+- Abertura de chamado na Oracle (SR 3-19928403261) para tratamento do problema de inicialização dos serviços de clusterware no servidor S55NRJ após reboot
+
+
+24/04/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004412885
+--- INC900004369664
+--- INC900004390314
+--- INC900004424622
+
+-- Execução do RelDba no ambiente TROVAO
+
+25/04/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004434637
+--- INC900004434868
+--- INC900004443928
+
+-- Execução do RelDba no ambiente SQLCLT01_EXT1PRD
+-- Instalação da ferramenta Oracle Trace File Analyzer para o chamado SR 3-19928403261.
+-- Update do chamado SR 3-19928403261 sobre problemas na instalação
+
+26/04/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004445347
+--- INC900004381533
+--- INC900004452340
+--- INC900004452809
+
+
+-- Instalação em S324RJ\EXT4PRD da ferramenta SQLServer System Data Collection
+
+29/04/2019
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004460957
+--- INC900004463285
+--- INC900004463595
+--- INC900004453693
+--- INC900004469843
+--- INC900004472521
+
+30/04/2019
+
+- Check list do ambiente
+- Atendimento aos chamados
+- Análise dos dados de performance do ambiente S324RJ\EXT4PRD Charles River
+- Reunião de Migração do Trovão
+
+02/05/2019
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004474007
+--- INC900004474108
+--- INC900004484179
+--- INC900004500010
+--- INC900004501885
+
+03/05/2019
+
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004498272
+
+-- Call Melhoria de Performance no BankPro - Ações em Banco de Dados
+-- Reunião Migração TROVAO - war room
+
+06/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004511156
+--- INC900004560832
+--- INC900004562001
+--- INC900004501484
+--- INC900004511159
+
+-- Iteração com Breno Mattos sobre S259\YMF_DSV -> cot2 em single user. Colocando-a em multi user
+-- Pesquisa e criação de script para reponterar objetos, em cot2hist_20171203, de sac.. para sachist_20141203..
+-- Iteração com André gomes para acompanhar as atividades de configuração do integration services no novo trovao
+
+07/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004472521
+--- INC900004534164
+--- INC900004534548
+
+-- Acompanhei o Andre Gomes em atividades de scripting para a migração do Trovao
+-- Reunião de alinhamento com Trindade e Renato
+
+08/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004541333
+--- INC900004542958
+
+09/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004559939
+--- INC900004560832
+--- INC900004553249
+--- INC900004560931
+--- INC900004562001
+--- INC900004551308
+
+-- Reunião sobre expurgo de dados no Charles River
+-- Reunião sobre a migração do Trovão
+
+10/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004562866
+--- INC900004562103
+--- INC900004561586
+--- INC900004571423
+--- INC900004571514
+--- INC900004577412
+
+
+11/05/2019
+
+-- Migração do Trovão
+
+12/05/2019
+
+-- Migração do Trovão 
+
+13/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004577412
+--- INC900004584648
+--- INC900004586542
+--- INC900004587024
+--- INC900004442070
+--- INC900004589705
+--- INC900004589388
+
+
+-- Troubleshooting de performance em SQLCLT03\INT2PRD devido a problemas pós migração
+-- Investigação de problema de performance na view pessoas4..EG_VIEW_CLIENTES_AUX
+-- Coleta de evidências para trabalho de auditoria KPMG
+-- Troubleshooting de estouro de espaço na tempdb em EXT1PRD
+
+14/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+
+--- Reunião de crise para tratar problema de performance no novo trovão (int2prd)
+--- Coleta de evidências para a atividade de auditoria
+
+15/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004606978
+--- INC900004609199
+
+-- Finalização da Coleta de evidências para a atividade de auditoria
+-- Problema de Lentidão em JCOT e SAC
+
+16/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004592668
+--- INC900004595040
+--- INC900004560931
+--- INC900004562103
+--- INC900004589388
+--- INC900004571514
+--- INC900004553249
+--- INC900004592704
+
+- Reunião com Leandro Almeira, Andre Gomes sobre migração do dmz_dsv para 2016
+- Reunião Com Andre Gomes, Leonardo Trindade para passagem de conhecimento e infos
+
+21/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004666418
+--- INC900004551308
+--- INC900004673122
+--- INC900004675472
+--- INC900004628787
+--- INC900004660242
+--- INC900004571423
+
+-- Call com claudio Oberg para tratar do restore da produçao da base Allocation
+-- Reunião para alinhamento da migração da instancia dmz_dsv para 2016
+
+22/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004680988
+--- INC900004674379 
+--- INC900004675472
+--- INC900004672377
+
+-- Reunião quinzenal com Leonardo e Renato
+
+23/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+
+-- Call com suporte microsoft para tratamento do chamado 119051322002085
+-- Backup da base CFIBasileia a pedido do Roberto Santos
+
+24/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004676649
+--- INC900004676405
+--- INC900004674844
+--- INC900004674379
+--- INC900004673122
+--- INC900004682618
+--- INC900004682092
+--- INC900004695247
+
+27/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004676405
+
+-- Call com suporte microsoft para tratamento do chamado 119051322002085
+-- Tratamento de alerta indicando falta de espaço em S259RJ
+-- Iteração com o Jorge Batista sobre demanda de uma base credito para desenvolvimento
+
+
+28/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004704180
+--- INC900004676649
+--- INC900004674379
+--- INC900004695608
+--- INC900004674844
+
+-- Unlock do usuario srv_bdpessoas4_rw em INT2PRD
+-- call com suporte microsoft para andamento do chamado 119051322002085 sobre a falha de acesso da equipe do Menegussi a arvore do SQLAgent Jobs
+
+
+29/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004731623
+--- INC900004724566
+--- INC900004723101
+--- INC900004723912
+--- 
+
+-- reunião com André Gomes para passagem de scripts e atividades do teste de DR
+
+30/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004735266
+--- INC900004676405
+--- INC900004734369
+--- INC900004744002
+--- INC900004714205
+
+31/05/2019
+- Check list do ambiente
+- Atendimento aos chamados
+--- INC900004722261
+--- INC900004628787
+--- INC900004723912
+--- INC900004672377
+--- INC900004754019
+--- INC900004758562
