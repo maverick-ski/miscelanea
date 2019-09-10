@@ -1,0 +1,35 @@
+Boa Tarde Raquel,
+
+Primeiramente obrigado pelo contato!
+Anexo segue o formulário preenchido e abaixo as respostas:
+
+•       Resumo de sua experiência profissional, especialmente em pre vendas e/ou Arquitetura de Soluções no território de RJ
+
+Mini Currículo
+•	Amplo domínio no planejamento e gestão de Ti, com 19 anos de experiência tendo atuado como Coordenador, Arquiteto de Soluções, Administrador de Bando de Dados, Consultor, em empresas de médio e grande porte;
+•	Experiência em: análise de problemas e oportunidades, integração e testes de soluções de infraestrutura, Gestão de projetos, planejamento de investimentos para capacidade da infraestrutura de TI, gestão de serviços de TI alinhado as práticas do ITIL e Governança de Ti;
+•	Experiência em arquitetura de soluções de middleware, banco de dados e infraestrutura em ambientes on premise ou cloud;
+•	Coordenação de equipes multidisciplinares para desenvolvimento de novos projetos, acompanhamento de cronogramas e suporte a áreas envolvidas;
+•	Perfil hands on, habilidade de trabalhar em times, agilidade, visão sistêmica e holística, flexibilidade e capacidade de lidar em ambientes com diferentes culturas;
+
+Qualificações Técnicas
+•	OS’s: Windows (2012 R2, 2008 R2, 2003 and early versions), All Linux flavors (RH, SUSE, OEL, Debian & etc.), Solaris, AIX, HP-UX;
+•	Virtualization:   VMware ESX/ESXi, Docker, OpenStack, OracleVM, Oracle Virtual Box, XEN Server;
+•	Cloud Solutions: AWS (EC2, IAM, RDS, S3, ELB, Cloud Formation, Lambda, RDS, Aurora, DynamoDB, RedShift, SQS, SNS etc.), Azure (VM's, Functions, Storage, App Services, Active Directory, AD B2B, AD DS, SQL Database, Load Balancer, Virtual Network etc.);
+•	Apps Servers: WebLogic, Tomcat, JBoss, Apache
+•	Databases: MySQL, PostgreSQL, SQL Server
+•	Backup Tools: Symantec NetBackup, Oracle Secure Backup, Bacula, HP Data Protector;
+•	Oracle Products: Databases 7/8/8i/9i/10g/11g/12c, RAC, Data Guard, Application Servers 9iAS/10gAS/11g/12c, Golden Gate, SOA Suite 10g/11g/12c, Grid Control 11g/12c, Exalogic Elastic Cloud, etc.
+•	Methodologies: ITIL, COBIT, SOX, CMM, TOGAF, SIX SIGMA
+
+•       Preenchimento word anexo
+
+Em anexo
+
+•       Gostaria de entender sua atual Remuneração ou última  + beneficios (atuais ou ultimos)
+
+Salário R$15.456,00 + Plano Saúde + VR  (R$23,00/dia)
+
+•       E tambem sua expectativa salarial para considerar nova oportunidade.
+
+Estou aberto a ouvir a proposta.
